@@ -20,12 +20,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pinnguino/pinnguino/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-
 <h1 align="left">My tech stack</h1>
 
 ###
